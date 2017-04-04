@@ -1,7 +1,7 @@
 {
-  "name": "git-pack",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@mike3386/git-pack",
+  "version": "1.0.2",
+  "description": "Lab11 npm package. This is testing of npm. Please don't say to me about this project. This is only testing.",
   "main": "git.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,6 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "needle": "^1.6.0"
-  }
+  },
+  "devDependencies": {}
 }

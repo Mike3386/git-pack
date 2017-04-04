@@ -1,0 +1,23 @@
+{
+  "name": "git-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike3386/git-pack.git"
+  },
+  "author": "= <mike98plehanov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mike3386/git-pack/issues"
+  },
+  "homepage": "https://github.com/Mike3386/git-pack#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "needle": "^1.6.0"
+  }
+}
